@@ -20,7 +20,7 @@
 }
 
 .msn-size {
-    width: 50%;
+    width: 55%;
 }
 
 .button-border {
@@ -33,5 +33,10 @@
 
 .mtt {
     padding-top: 100px;
+}
+
+.inputlr {
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
